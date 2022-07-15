@@ -1,0 +1,1 @@
+{"version":3,"file":"CubejsHandlerError.d.ts","sourceRoot":"","sources":["../../src/CubejsHandlerError.ts"],"names":[],"mappings":"AAAA,qBAAa,kBAAmB,SAAQ,KAAK;aAEzB,MAAM,EAAE,MAAM;aACd,IAAI,EAAE,MAAM;gBADZ,MAAM,EAAE,MAAM,EACd,IAAI,EAAE,MAAM,EAC5B,OAAO,EAAE,MAAM;CAIlB"}
